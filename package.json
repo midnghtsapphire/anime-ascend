@@ -1,8 +1,10 @@
 {
-  "name": "{{project_name}}",
+  "name": "anime-ascend",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
+  "description": "Anime Ascend — Premium coming-of-age anime discovery platform with glassmorphism UI, AI recommendations, and community features",
+  "author": "Revvel",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
