@@ -11,6 +11,8 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Pricing from "./pages/Pricing";
+import Discover from "./pages/Discover";
+import AdminDashboard from "./pages/AdminDashboard";
 import "./styles/accessibility.css";
 
 
@@ -21,6 +23,8 @@ function Router() {
       <Route path="/login" component={Login} />
       <Route path="/signup" component={Signup} />
       <Route path="/pricing" component={Pricing} />
+      <Route path="/discover" component={Discover} />
+      <Route path="/admin" component={AdminDashboard} />
       <Route component={NotFound} />
     </Switch>
   );
