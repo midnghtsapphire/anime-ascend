@@ -13,6 +13,8 @@ import Signup from "./pages/Signup";
 import Pricing from "./pages/Pricing";
 import Discover from "./pages/Discover";
 import AdminDashboard from "./pages/AdminDashboard";
+import Support from "./pages/Support";
+import Settings from "./pages/Settings";
 import "./styles/accessibility.css";
 
 
@@ -25,6 +27,8 @@ function Router() {
       <Route path="/pricing" component={Pricing} />
       <Route path="/discover" component={Discover} />
       <Route path="/admin" component={AdminDashboard} />
+      <Route path="/support" component={Support} />
+      <Route path="/settings" component={Settings} />
       <Route component={NotFound} />
     </Switch>
   );
