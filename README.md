@@ -247,3 +247,12 @@ For support, contact: support@anime-ascend.app
 **Built with ❤️ by Revvel**
 
 Coming-of-Age Anime Discovery Platform | Glassmorphism UI | Full Accessibility | AI-Powered
+
+---
+
+## Test
+
+| Feature | Status |
+|---------|--------|
+| Feature | ✅ Ready |
+
