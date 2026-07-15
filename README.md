@@ -1,5 +1,12 @@
 # Anime Ascend
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/anime-ascend?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/anime-ascend?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/anime-ascend?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/anime-ascend)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 **Premium Coming-of-Age Anime Discovery & Community Platform**
 
 Anime Ascend is a glassmorphism-based platform dedicated to discovering, tracking, and sharing coming-of-age anime stories. With AI-powered recommendations, mood-based filtering, and a thriving community, Anime Ascend helps fans explore transformative narratives and track their personal growth through character arcs.
